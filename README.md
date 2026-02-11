@@ -26,42 +26,73 @@ p: Building with React, Astro, and the latest web standards.
 
 
 **Feature-card 3**
+
 Icon: 📱
+
 h3: Responsive UI
+
 p: Seamless experiences across all devices and screen sizes.
 
+
 **Feature-card 4**
+
 Icon: 💎
+
 h3: Clean Code
+
 p: Maintainable, scalable, and well-documented architecture.
 
+
 **Feature-card 5**
+
 Icon: ✨
+
 h3: Pixel Perfect
+
 p: Precise translation of Figma designs into living interfaces.
 
+
 **Feature-card 6**
+
 Icon: 👤
+
 h3: User Centric
+
 p: Focus on accessibility and intuitive user journeys.
 
+
 **About Section**
+
 h2: About My Vision
+
 p: I am a passionate Front-end Engineer dedicated to creating immersive and highly performant web experiences. My mission at Nova Dev is to bridge the gap between complex logic and elegant design, ensuring every user interaction is smooth, accessible, and visually stunning.
 
+
 **SKill section > Hero-content**
+
 h2: Tech Stack & Expertise
+
 p: Modern, scalable, and performant solutions built with the latest industry standards.
 
+
 **Skill-card 1**
+
 Icon: ⚛️
+
 h3: Frontend Architecture
+
 p: Engineering complex web applications with a focus on state management and modularity.
+
 Skill-list
+
 React & Next.js
+
 TypeScript
+
 State Management (Zustand/Redux)
+
 Tailwind CSS & SCSS
+
 
 Arrow marker: →
 

@@ -97,54 +97,99 @@ Tailwind CSS & SCSS
 Arrow marker: →
 
 **Skill-card 2**
+
 Icon: 🎨
+
 h3: UI/UX Design
+
 p: Creating immersive user interfaces with modern design principles and fluid animations.
+
 Skill-list
+
 Figma Design Systems
+
 Framer Motion Animations
+
 Responsive Layouts
+
 Web Accessibility (WCAG)
 
+
 **Skill-card 3**
+
 Icon: 🔌
+
 h3: Backend Integration
+
 p: Developing robust server-side logic and seamless API connections for dynamic data.
+
 Skill-list
+
 Node.js & Express
+
 RESTful & GraphQL APIs
+
 PostgreSQL / MongoDB
+
 JWT Authentication
 
+
 **Skill-card 4**
+
 Icon: 🚀
+
 h3: Speed & SEO
+
 p: Optimizing for Core Web Vitals to ensure the best search engine rankings and user speed.
+
 Skill-list
+
 SEO Best Practices
+
 Performance Auditing
+
 SSR & Static Generation
+
 Image Optimization
 
+
 **Skill-card 5**
+
 Icon: ☁️
+
 h3: Cloud & DevOps
+
 p: Streamlining development with modern CI/CD pipelines and reliable cloud hosting.
+
 Skill-list
+
 Docker Containerization
+
 CI/CD (GitHub Actions)
+
 Vercel & AWS Hosting
+
 Git Flow & Version Control
 
+
 **Skill-card 6**
+
 Icon: 🔐
+
 h3: Security & Quality
+
 p: Ensuring digital assets are protected through rigorous testing and security protocols.
+
 Skill-list
+
 Unit & Integration Testing
+
 Security Auditing
+
 Clean Code Standards
+
 Cross-browser QA
+
 
 
 

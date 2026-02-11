@@ -190,6 +190,18 @@ Clean Code Standards
 
 Cross-browser QA
 
+**Contact-form**
+
+h3: 🚀 Launch Your Project
+
+p: Have a groundbreaking idea? Let's build it together using the latest tech stack.
+
+**Contact-info**
+
+h2: Base Coordinates
+
+
+
 
 
 

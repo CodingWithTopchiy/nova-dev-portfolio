@@ -8,14 +8,22 @@ h1: Next-Gen Frontend Solutions
 p: Front-end Engineer specializing in building exceptional digital experiences with React, Astro, and modern CSS.
 
 **Feature-card 1**
+
 Icon: ⚡
+
 h3: Performance First
+
 p: High-speed loading and Core Web Vitals optimization.
 
+
 **Feature-card 2 **
+
 Icon: 🚀
+
 h3: Modern Stack
+
 p: Building with React, Astro, and the latest web standards.
+
 
 **Feature-card 3**
 Icon: 📱

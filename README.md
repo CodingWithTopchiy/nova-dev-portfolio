@@ -2,7 +2,9 @@
 Nova Dev Portfolio Assets.
 
 **Hero-content**
+
 h1: Next-Gen Frontend Solutions
+
 p: Front-end Engineer specializing in building exceptional digital experiences with React, Astro, and modern CSS.
 
 **Feature-card 1**

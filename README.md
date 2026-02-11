@@ -16,7 +16,7 @@ h3: Performance First
 p: High-speed loading and Core Web Vitals optimization.
 
 
-**Feature-card 2 **
+**Feature-card 2**
 
 Icon: 🚀
 

@@ -200,8 +200,49 @@ p: Have a groundbreaking idea? Let's build it together using the latest tech sta
 
 h2: Base Coordinates
 
+**Contact-item 1**
 
+Icon: ⚡
 
+h4: Direct Line
+
+p: contact@novadev.com
+
+p: Expect a reply within 24h
+
+**Contact-item 2**
+
+Icon: 💬
+
+h4: Social Presence
+
+p: Telegram: @nova_dev_tech
+
+p: LinkedIn: Nova-Digital-Studio
+
+**Contact-item 3**
+
+Icon: 🌍
+
+h4: Operation Hub
+
+p: Distributed Team Main Hub: London, UK
+
+**Contact-item 4**
+
+Icon: 🔋
+
+h4: Availability
+
+p: Mon — Fri: Active Coding Sat — Sun: R&D Sessions
+
+**Contact-map**
+
+h2: Global Availability
+
+**Footer > copyright**
+
+© 2026 Nova Dev. Crafted with code and passion.
 
 
 
